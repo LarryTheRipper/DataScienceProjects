@@ -23,7 +23,7 @@ The main points that are analyzed and focused on in this project are as follows:
 
 **Occupancy Share by Room Type:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/reviews_roomtype_plot.png" alt="Occupancy Share by Room Type" style="width:1000px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/reviews_roomtype_plot.png" alt="Occupancy Share by Room Type" style="width:1000px;height:350px;">
 
 - Room types are divided into four categories with varying degrees of space, amenities and luxury. As can be seen on the first chart above, the most expensive room type is the entire home/apartment type, but it is also the room type with the highest occupancy rate as can be seen on the second chart above. This is likely because AirBnB captures the more long term stay segment instead of the “vacation” segment of the market. A close second is the private room type, considering the balance between affordability and privacy this isn’t a surprise.
 
