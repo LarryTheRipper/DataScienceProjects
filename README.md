@@ -39,7 +39,7 @@ The main points that are analyzed and focused on in this project are as follows:
 
 **Popular Listings Share by Region:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/popular_neighbourhood_group_plot.png" alt="Popular Listings Share by Region" style="width:1000px;height:300px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/popular_neighbourhood_group_plot.png" alt="Popular Listings Share by Region" style="width:1000px;height:350px;">
 
 - There are many neighbourhoods in Singapore that are each apart of an even larger region (neighbourhood group) of which there are five. As usual the more touristy neighbourhoods like Marina South, Orchard and Southern Islands have the highest median listing prices as can be seen on the first chart above. These neighbourhoods are all apart of the Central Region which is why it is the most expensive region as can be seen on the second chart above. When we look at occupancy rates however, the North Region comes out on top as can be seen on the third chart above, this is because it offers a great balance between affordability and accessibility to the other more touristy and downtown areas.
 
