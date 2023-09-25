@@ -19,7 +19,7 @@ The main points that are analyzed and focused on in this project are as follows:
 
 **Median Price by Room Type:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/price_roomtype_plot.png" alt="Median Price by Room Type" style="width:900px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/price_roomtype_plot.png" alt="Median Price by Room Type" style="width:900px;height:350px;">
 
 **Occupancy Share by Room Type:**
 
@@ -31,11 +31,11 @@ The main points that are analyzed and focused on in this project are as follows:
 
 **Median Price by Neighbourhood:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/price_neighbourhood_plot.png" alt="Median Price by Neighbourhood" style="width:1000px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/price_neighbourhood_plot.png" alt="Median Price by Neighbourhood" style="width:1000px;height:350px;">
 
 **Median Price by Region:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/price_neighbourhood_group_plot.png" alt="Median Price by Region" style="width:1000px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/price_neighbourhood_group_plot.png" alt="Median Price by Region" style="width:1000px;height:350px;">
 
 **Popular Listings Share by Region:**
 
@@ -47,15 +47,15 @@ The main points that are analyzed and focused on in this project are as follows:
 
 **Monthly Renting Trend:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/monthly_trend_plot.png" alt="Monthly Renting Trend" style="width:1000px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/monthly_trend_plot.png" alt="Monthly Renting Trend" style="width:1000px;height:350px;">
 
 **Yearly Renting Trend:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/yearly_trend_plot.png" alt="Yearly Renting Trend" style="width:1000px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/yearly_trend_plot.png" alt="Yearly Renting Trend" style="width:1000px;height:350px;">
 
 **Comparison of No. Active Listings Before and After 2020-01-23:**
 
-<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/active_listings_plot.png" alt="Comparison of No. Active Listings Before and After 2020-01-23" style="width:1000px;height:400px;">
+<img src="https://github.com/farrellwahyudi/Data-Analysis-of-AirBnB-Listings-in-Singapore/blob/main/Images/active_listings_plot.png" alt="Comparison of No. Active Listings Before and After 2020-01-23" style="width:1000px;height:350px;">
 
 - The Covid-19 Pandemic had a profound impact on AirBnB listings in Singapore. More than 500 listings (or around 38% of total listings) went inactive after the pandemic happened as can be seen on the third chart above. Occupancy rates across the country plummeted right after January 2020 as can be seen on the first chart above. The good news is that occupancy rates went shooting up again once the lockdowns ended. As can be seen on the first and second chart above, occupancy rates in 2022 have gone up to just below pre-pandemic levels across the country, suggesting resilience in the AirBnB market.
 
@@ -65,4 +65,4 @@ In summary, this data analysis of Airbnb listings in Singapore paints a comprehe
 
 This analysis provides valuable insights for both hosts and travelers navigating the evolving landscape of short-term accommodations in Singapore.
 
-<img src="https://images.squarespace-cdn.com/content/v1/55c63ae6e4b06ae6eeb73710/1617199804386-M1YEXHXOIZPIZHHSP5RX/Airbnb_Recognition_Cover_Medium.gif" style="width:600px;height:500px;" loop=infinite>
+<img src="https://images.squarespace-cdn.com/content/v1/55c63ae6e4b06ae6eeb73710/1617199804386-M1YEXHXOIZPIZHHSP5RX/Airbnb_Recognition_Cover_Medium.gif" style="width:500px;height:400px;" loop=infinite>
